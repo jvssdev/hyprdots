@@ -63,7 +63,7 @@ firefox                                                # browser
 kitty                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
-vim                                                    # terminal text editor
+neovim                                                 # terminal text editor
 
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
