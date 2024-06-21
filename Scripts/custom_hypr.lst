@@ -64,7 +64,6 @@ kitty                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
 vim                                                    # terminal text editor
-code                                                   # ide text editor
 
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
